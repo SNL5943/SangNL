@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://snl5943.github.io/photorama/gallery/"  
-  - JOURNAL: "https://snl5943.github.io/photorama/journal/"
-  - ABOUT: "https://snl5943.github.io/photorama/about/"
+  - GALLERY: "https://snl5943.github.io/SangNL/gallery/"  
+  - JOURNAL: "https://snl5943.github.io/SangNL/journal/"
+  - ABOUT: "https://snl5943.github.io/SangNL/about/"
 
 # All translation keys
 translations:
