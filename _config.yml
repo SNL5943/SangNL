@@ -3,7 +3,7 @@ title: Sang Ngoc Le
 email: "sang.sko@gmail.com"
 description: "SangNL's Journal"
 url: "https://snl5943.github.io"
-baseurl: "/snl5943.github.io"
+baseurl: "/SangNL"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Sang Ngoc Le
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: photography and technology blog
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://snl5943.github.io/photorama/gallery/"  
-  - JOURNAL: "https://snl5943.github.io/photorama/journal/"
-  - ABOUT: "https://snl5943.github.io/photorama/about/"
+  - GALLERY: "https://snl5943.github.io/SangNL/gallery/"  
+  - JOURNAL: "https://snl5943.github.io/SangNL/journal/"
+  - ABOUT: "https://snl5943.github.io/SangNL/about/"
 
 # All translation keys
 translations:
