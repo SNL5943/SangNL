@@ -1,8 +1,8 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
+title: Sang Ngoc Le
+email: "sang.sko@gmail.com"
+description: "SangNL's Journal"
+url: "https://snl5943.github.io"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -27,15 +27,15 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://snl5943.github.io/photorama/gallery/"  
+  - JOURNAL: "https://snl5943.github.io/photorama/journal/"
+  - ABOUT: "https://snl5943.github.io/photorama/about/"
 
 # All translation keys
 translations:
