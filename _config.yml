@@ -4,9 +4,9 @@ email: "sang.sko@gmail.com"
 description: "SangNL's Journal"
 url: "https://snl5943.github.io"
 baseurl: "/SangNL"
-facebook_username: "https://www.facebook.com/sharko.no1"
-instagram_username: "https://www.instagram.com/sangnl_/"
-github_username:  "https://github.com/SNL5943"
+facebook_username: "sharko.no1"
+instagram_username: "sangnl_"
+github_username:  "SNL5943"
 share: true
 
 # Owner/author information
